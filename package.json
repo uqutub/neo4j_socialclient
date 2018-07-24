@@ -1,0 +1,21 @@
+{
+  "name": "neo4j_socialclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "github": "https://github.com/uqutub/neo4j_socialclient",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "ejs": "^2.4.2",
+    "express": "*",
+    "morgan": "*",
+    "neo4j-driver": "^1.6.2"
+  },
+  "author": "Yousuf Qutubuddin",
+  "license": "ISC"
+}
